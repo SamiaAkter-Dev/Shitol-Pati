@@ -1,0 +1,3263 @@
+.shitol-pati{
+    height: 400px;
+    width: 800px;
+    background-color: rgb(179, 35, 111);
+    margin: 0 auto;
+    border: 10px solid teal;
+    position: relative;
+}
+body{
+    background-color: pink;
+}
+h1{
+    text-align: center;
+    color: teal;
+}
+.box-one{
+    height: 20px;
+    width: 20px;
+    background-color: purple;
+    position: relative;
+    top: 0;
+    left: 0;
+}
+.box-two{
+    height: 20px;
+    width: 20px;
+    background-color: purple;
+    position: relative;
+    top: 0;
+    left: 20px;
+}
+.box-three{
+    height: 20px;
+    width: 20px;
+    background-color: purple;
+    position: relative;
+    top: 0px;
+    left: 40px;
+}
+.box-four{
+    height: 20px;
+    width: 20px;
+    background-color: purple;
+    position: relative;
+    top: 0px;
+    left: 60px;
+}
+.box-five{
+    height: 20px;
+    width: 20px;
+    background-color: purple;
+    position: relative;
+    top: 0px;
+    left: 80px;
+}
+.box-six{
+    height: 20px;
+    width: 20px;
+    background-color: purple;
+    position: relative;
+    top: 0px;
+    left: 100px;
+}
+
+.box-seven{
+    height: 20px;
+    width: 20px;
+    background-color: purple;
+    position: relative;
+    top: 0px;
+    left: 120px;
+}
+.box-eight{
+    height: 20px;
+    width: 20px;
+    background-color: purple;
+    position: relative;
+    top: 0px;
+    left: 140px;
+}
+.box-nine{
+    height: 20px;
+    width: 20px;
+    background-color: purple;
+    position: relative;
+    top: 0px;
+    left: 160px;
+}
+.box-ten{
+    height: 20px;
+    width: 20px;
+    background-color: purple;
+    position: relative;
+    top: 0px;
+    left: 180px;
+}
+.box-eleven{
+     height: 20px;
+    width: 20px;
+    background-color: purple;
+    position: relative;
+    top: 0px;
+    left: 200px;
+}
+.box-twelve{
+    height: 20px;
+    width: 20px;
+    background-color: purple;
+    position: relative;
+    top: 0px;
+    left: 220px;
+}
+.box-q{
+     height: 20px;
+    width: 20px;
+    background-color: purple;
+    position: relative;
+    top: 0px;
+    left: 240px;
+}
+.box-w{
+     height: 20px;
+     width: 20px;
+     background-color: purple;
+     position: relative;
+     top: 0px;
+     left: 260px;
+}
+.box-e{
+    height: 20px;
+     width: 20px;
+     background-color: purple;
+     position: relative;
+     top: 0px;
+     left: 280px;
+}
+.box-r{
+    height: 20px;
+     width: 20px;
+     background-color: purple;
+     position: relative;
+     top: 0px;
+     left: 300px;
+}
+.box-t{
+     height: 20px;
+     width: 20px;
+     background-color: purple;
+     position: relative;
+     top: 0px;
+     left: 320px;
+}
+.box-y{
+     height: 20px;
+     width: 20px;
+     background-color: purple;
+     position: relative;
+     top: 0px;
+     left: 340px;
+}
+
+.box-u{
+     height: 20px;
+     width: 20px;
+     background-color: purple;
+     position: relative;
+     top: 0px;
+     left: 360px;
+}
+.box-i{
+     height: 20px;
+     width: 20px;
+     background-color: purple;
+     position: relative;
+     top: 0px;
+     left: 380px;
+
+}
+.box-o{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 0;
+      right:0;    
+}
+.box-p{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 0;
+      right:20px;    
+}
+.box-p{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 0;
+      left:40px;    
+}
+.box-s{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 20px;
+      left:60px;   
+}
+
+.box-d{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 40px;
+      left:80px;   
+}
+.box-f{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 60px;
+      left:100px;   
+}
+
+.box-g{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 80px;
+      left:120px;   
+}
+.box-h{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 100px;
+      left:140px; 
+}
+.box-j{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 120px;
+      left:160px; 
+}
+.box-k{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 140px;
+      left:180px; 
+}
+.box-l{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 160px;
+      left:200px; 
+}
+.box-z{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 180px;
+      left:220px; 
+}
+.box-x{
+    height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 200px;
+      left:240px;
+}
+.box-c{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 220px;
+      left:260px;
+}
+.box-v{
+    height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 240px;
+      left:280px;
+}
+.box-b{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 260px;
+      left:300px;
+}
+.box-n{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 280px;
+      left:320px;
+}
+.box-1{
+    height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 300px;
+      left:340px;
+}
+.box-2{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 320px;
+      left:360px;
+}
+
+
+
+.box-3{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 340px;
+      left:380px;
+}
+
+.box-4{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 360px;
+      left:400px;
+}
+
+.box-5{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 380px;
+      left:420px;
+}
+    
+.box-6{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top:0px;
+      left:80px;
+} 
+.box-7{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 20px;
+      left:100px;
+}
+.box-8{
+       height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 40px;
+      left:120px;
+}
+.box-9{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 60px;
+      left:140px;
+}
+.box-10{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 80px;
+      left:160px;
+}
+ .box-11{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 100px;
+      left:180px;
+}
+.box-12{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 120px;
+      left:200px;
+} 
+.box-13{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 140px;
+      left:220px;
+}
+
+.box-14{
+    height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 160px;
+      left:240px;
+}
+.box-15{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 180px;
+      left:260px;
+}
+.box-16{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 200px;
+      left:280px;
+}
+.box-17{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 220px;
+      left:300px;
+}
+.box-18{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 240px;
+      left:320px;
+}
+
+.box-19{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 260px;
+      left:340px;
+}
+.box-20{
+    height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 280px;
+      left:360px;
+}
+.box-21{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 300px;
+      left:380px;
+} 
+.box-22{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 320px;
+      left:400px;
+}
+.box-23{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 340px;
+      left:420px;
+}
+.box-24{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 360px;
+      left:440px;
+}
+.box-25{
+    height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 380px;
+      left:460px;
+}
+.box-26{
+    height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 0px;
+      left:120px;
+}
+.box-27{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 20px;
+      left:140px;
+}
+.box-28{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 40px;
+      left:160px;
+}
+.box-29{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 60px;
+      left:180px;
+}
+.box-30{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 80px;
+      left:200px;
+}
+.box-31{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 100px;
+      left:220px;
+}
+.box-32{ 
+    height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 120px;
+      left:240px;
+}
+.box-33{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 140px;
+      left:260px;
+}
+.box-34{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 160px;
+      left:280px;
+}
+.box-35{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 180px;
+      left:300px;
+}
+
+.box-36{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 200px;
+      left:320px;
+}
+.box-37{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 220px;
+      left:340px;
+}
+.box-38{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 240px;
+      left:360px;
+}
+.box-39{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 260px;
+      left:380px;
+}
+.box-40{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 280px;
+      left:400px;
+}
+.box-41{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 300px;
+      left:420px;
+}
+.box-42{
+    height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 320px;
+      left:440px;
+}
+.box-43{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 340px;
+      left:460px;
+}
+.box-44{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 360px;
+      left:480px;
+}
+.box-45{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 380px;
+      left:500px;
+}
+.box-46{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 0px;
+      left:160px;
+}
+.box-47{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 20px;
+      left:180px;
+}
+.box-48{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 40px;
+      left:200px;
+} 
+.box-49{
+    height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top:60px;
+      left:220px;
+}
+.box-50{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 80px;
+      left:240px;
+} 
+.box-51{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 100px;
+      left:260px;
+}
+.box-52{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 120px;
+      left:280px;
+}
+.box-53{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 140px;
+      left:300px;
+}
+.box-54{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 160px;
+      left:320px;
+}
+.box-55{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 180px;
+      left:340px;
+}
+.box-56{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 200px;
+      left:360px;
+}
+.box-57{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 220px;
+      left:380px;
+}
+.box-58{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 240px;
+      left:400px;
+}
+.box-59{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 260px;
+      left:420px;
+}
+.box-60{
+        height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 280px;
+      left:440px;
+}
+.box-61{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 300px;
+      left:460px;
+}
+.box-62{
+    height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 320px;
+      left:480px;
+}
+.box-63{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 340px;
+      left:500px;
+}
+.box-64{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 360px;
+      left:520px;
+}
+.box-65{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 380px;
+      left:540px;
+}
+.box-66{
+    height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 0px;
+      left:200px;
+}
+.box-67{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 20px;
+      left:220px;
+}
+.box-68{
+    height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 40px;
+      left:240px;
+}
+.box-69{
+    height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 60px;
+      left:260px;
+}
+.box-70{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 80px;
+      left:280px;
+}
+.box-71{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 100px;
+      left:300px;
+}
+.box-72{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 120px;
+      left:320px;
+}
+.box-73{
+    height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 140px;
+      left:340px;
+}
+.box-74{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 160px;
+      left:360px;
+}
+.box-75{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 180px;
+      left:380px;
+}
+.box-76{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 200px;
+      left:400px;
+}
+.box-77{
+    height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 220px;
+      left:420px;
+}
+.box-78{
+    height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 240px;
+      left:440px;
+}
+.box-79{
+    height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 260px;
+      left:460px;
+}
+.box-80{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 280px;
+      left:480px
+}
+.box-81{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 300px;
+      left:500px
+}
+.box-82{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 320px;
+      left:520px
+}
+.box-83{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 340px;
+      left:540px
+}
+.box-84{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 360px;
+      left:560px
+}
+.box-85{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 380px;
+      left:580px
+}
+.box-86{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 0px;
+      left:240px
+}
+.box-87{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 20px;
+      left:260px
+}
+.box-88{
+    height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 40px;
+      left:280px
+}
+.box-89{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 60px;
+      left:300px 
+}
+.box-90{
+    height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 80px;
+      left:320px 
+}
+.box-91{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 100px;
+      left:340px 
+}
+.box-92{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 120px;
+      left:360px 
+}
+.box-93{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 140px;
+      left:380px 
+}
+.box-94{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 160px;
+      left:400px 
+} 
+.box-95{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 180px;
+      left:420px 
+}
+.box-96{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 200px;
+      left:440px 
+}
+.box-97{
+    height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 220px;
+      left:460px 
+}
+.box-98{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 240px;
+      left:480px 
+}
+.box-99{
+       height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 260px;
+      left:500px 
+}
+.box-100{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 280px;
+      left:520px 
+}
+.box-101{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 300px;
+      left:540px 
+}
+.box-102{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 320px;
+      left:560px 
+}
+.box-103{
+    height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 340px;
+      left:580px 
+}
+.box-104{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 360px;
+      left:600px 
+}
+
+.box-105{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 380px;
+      left:620px 
+}
+.box-106{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 0px;
+      left:280px 
+}
+.box-107{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 20px;
+      left:300px 
+}
+.box-108{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 40px;
+      left:320px 
+}
+.box-109{
+    height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 60px;
+      left:340px 
+}
+.box-110{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 80px;
+      left:360px 
+}
+.box-112{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 100px;
+      left:380px 
+}
+.box-113{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 120px;
+      left:400px 
+}
+.box-114{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 140px;
+      left:420px 
+}
+.box-116{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 160px;
+      left:440px 
+}
+.box-117{
+    height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 180px;
+      left:460px 
+}
+.box-118{
+       height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 200px;
+      left:480px 
+}
+.box-119{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 220px;
+      left:500px 
+}
+.box-120{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 240px;
+      left:520px 
+}
+.box-121{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 260px;
+      left:540px 
+}
+.box-122{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 280px;
+      left:560px 
+}
+.box-123{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 300px;
+      left:580px 
+}
+.box-124{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 320px;
+      left:600px 
+}
+.box-125{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 340px;
+      left:620px 
+}
+.box-126{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 360px;
+      left:640px;
+    
+}
+.box-127{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 380px;
+      left:660px;
+}
+.box-128{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 0px;
+      left:320px;
+}
+.box-129{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 20px;
+      left:340px;
+}
+.box-130{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 40px;
+      left:360px;
+}
+.box-131{
+    height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 60px;
+      left:380px;
+}
+.box-132{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 80px;
+      left:400px;
+}
+.box-133{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 100px;
+      left:420px;
+}
+.box-134{
+    height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 120px;
+      left:440px;
+}
+.box-135{
+   height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 140px;
+      left:460px;
+}
+.box-136{
+    height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 140px;
+      left:460px;
+}
+.box-137{ 
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 160px;
+      left:480px;
+}
+.box-138{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 180px;
+      left:500px;
+}
+.box-139{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 200px;
+      left:520px;
+}
+.box-140{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 220px;
+      left:540px;
+}
+.box-141{
+    height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 240px;
+      left:560px;
+}
+.box-142{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 260px;
+      left:580px;
+}
+.box-143{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 280px;
+      left:600px;
+}
+.box-144{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 300px;
+      left:620px;
+}
+.box-145{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 320px;
+      left:640px
+}
+.box-146{
+    height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 340px;
+      left:660px
+}
+.box-147{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 360px;
+      left:680px
+}
+.box-148{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 380px;
+      left:700px
+}
+.box-150{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 0px;
+      left:360px
+}
+.box-151{
+    height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 20px;
+      left:380px
+}
+.box-152{
+   height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 40px;
+      left:400px
+}
+.box-153{
+   height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 60px;
+      left:420px
+}
+.box-154{
+  height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 80px;
+      left:440px
+}
+.box-155{
+  height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 100px;
+      left:460px
+}
+.box-156{
+  height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 120px;
+      left:480px
+}
+.box-157{
+ height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 140px;
+      left:500px
+}
+.box-158{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 160px;
+      left:520px
+}
+.box-159{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 180px;
+      left:540px
+}
+.box-160{
+    height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 200px;
+      left:560px
+}
+.box-161{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 220px;
+      left:580px
+}
+.box-162{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 240px;
+      left:600px
+}
+.box-163{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 260px;
+      left:620px
+}
+.box-164{
+    height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 280px;
+      left:640px
+}
+.box-165{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 300px;
+      left:660px
+}
+.box-166{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 320px;
+      left:680px
+}
+.box-167{
+   height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 340px;
+      left:700px
+}
+.box-168{
+   height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 360px;
+      left:720px
+}
+.box-169{
+    height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 380px;
+      left:740px
+}
+.box-170{
+   height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 0px;
+      left:400px
+}
+.box-171{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 20px;
+      left:420px
+}
+.box-172{
+    height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 40px;
+      left:440px
+}
+.box-173{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 60px;
+      left:460px
+}
+.box-174{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 80px;
+      left:480px
+}
+.box-175{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 100px;
+      left:500px
+}
+.box-176{
+    height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 120px;
+      left:520px
+}
+.box-177{
+   height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 140px;
+      left:540px
+}
+.box-178{
+  height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 160px;
+      left:560px
+}
+.box-179{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 180px;
+      left:580px
+}
+.box-180{
+    height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 200px;
+      left:600px
+}
+.box-181{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 220px;
+      left:620px
+}
+.box-182{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 240px;
+      left:640px
+}
+.box-183{
+    height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 260px;
+      left:660px
+}
+.box-184{
+    height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 280px;
+      left:680px
+}
+.box-185{
+   height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 300px;
+      left:700px
+}
+.box-186{
+   height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 320px;
+      left:720px
+}
+.box-187{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 340px;
+      left:740px
+}
+.box-188{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 360px;
+      left:760px
+}
+.box-189{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 380px;
+      left:780px
+}
+.box-190{
+    height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 0px;
+      left:440px 
+}
+ .box-191{
+    height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 20px;
+      left:460px
+}
+.box-192{
+   height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 40px;
+      left:480px
+} 
+ .box-193{
+  height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 60px;
+      left:500px
+}
+.box-194{
+    height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 80px;
+      left:520px 
+}
+.box-195{
+    height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 100px;
+      left:540px 
+}
+.box-196{
+    height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 120px;
+      left:560px 
+}
+.box-197{
+   height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 140px;
+      left:580px 
+}
+.box-198{
+   height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 160px;
+      left:600px 
+}
+.box-199{
+  height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 180px;
+      left:620px 
+}
+.box-200{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 200px;
+      left:640px 
+}
+.box-201{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 220px;
+      left:660px 
+}
+.box-202{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 240px;
+      left:680px 
+}
+.box-203{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 260px;
+      left:700px 
+}
+.box-204{
+    height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 280px;
+      left:720px 
+}
+.box-205{
+   height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 300px;
+      left:740px 
+}
+.box-206{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 320px;
+      left:760px 
+}
+.box-207{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 340px;
+      left:780px 
+}
+.box-208{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 0px;
+      left:480px 
+}
+.box-209{
+    height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 20px;
+      left:500px 
+}
+.box-210{
+    height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 40px;
+      left:520px 
+}
+.box-211{
+    height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 60px;
+      left:540px 
+}
+.box-212{
+    height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 80px;
+      left:560px 
+}
+.box-213{
+    height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 100px;
+      left:580px 
+}
+.box-214{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 120px;
+      left:600px 
+}
+.box-215{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 140px;
+      left:620px 
+}
+.box-216{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 160px;
+      left:640px 
+}
+.box-217{
+    height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 180px;
+      left:660px 
+}
+.box-218{
+    height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 200px;
+      left:680px 
+}
+.box-219{
+    height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 220px;
+      left:700px 
+}
+.box-220{
+    height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 240px;
+      left:720px 
+}
+.box-221{
+    height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 260px;
+      left:740px 
+}
+.box-222{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 280px;
+      left:760px 
+}
+.box-223{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 300px;
+      left:780px 
+}
+.box-224{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 0px;
+      left:520px 
+}
+.box-225{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 20px;
+      left:540px 
+}
+.box-226{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 40px;
+      left:560px 
+}
+.box-227{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 60px;
+      left:580px 
+}
+.box-228{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 80px;
+      left:600px 
+}
+.box-229{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 100px;
+      left:620px 
+}
+.box-230{
+    height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 120px;
+      left:640px 
+}
+.box-231{
+    height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 140px;
+      left:660px 
+}
+.box-232{
+       height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 160px;
+      left:680px 
+}
+.box-233{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 180px;
+      left:700px 
+}
+.box-234{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 200px;
+      left:720px 
+}
+.box-235{
+    height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 220px;
+      left:740px 
+}
+.box-236{
+    height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 240px;
+      left:760px 
+}
+.box-237{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 260px;
+      left:780px 
+}
+.box-238{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 0px;
+      left:560px 
+}
+.box-239{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 20px;
+      left:580px 
+}
+.box-240{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 40px;
+      left:600px 
+}
+.box-241{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 60px;
+      left:620px 
+}
+.box-242{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 80px;
+      left:640px 
+}
+.box-243{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 100px;
+      left:660px 
+}
+.box-244{
+    height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 120px;
+      left:680px 
+}
+.box-245{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 140px;
+      left:700px 
+}
+.box-246{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 160px;
+      left:720px 
+}
+.box-247{
+    height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 180px;
+      left:740px 
+}
+.box-248{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 200px;
+      left:760px 
+}
+.box-249{
+       height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 220px;
+      left:780px 
+}
+.box-250{
+    height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 0px;
+      left:600px 
+}
+.box-251{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 20px;
+      left:620px 
+}
+.box-252{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 40px;
+      left:640px 
+}
+.box-253{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 60px;
+      left:660px 
+}
+.box-254{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 80px;
+      left:680px 
+}
+.box-255{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 100px;
+      left:700px 
+}
+.box-256{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 120px;
+      left:720px 
+}
+.box-257{
+    height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 140px;
+      left:740px 
+}
+.box-258{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 160px;
+      left:760px 
+}
+.box-259{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 180px;
+      left:780px; 
+}
+.box-260{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 0px;
+      left:640px; 
+}
+.box-261{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 20px;
+      left:660px; 
+}
+.box-262{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 40px;
+      left:680px; 
+}
+.box-263{
+    height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 60px;
+      left:700px; 
+}
+.box-264{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 80px;
+      left:720px; 
+}
+.box-265{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 100px;
+      left:740px; 
+}
+.box-266{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 120px;
+      left:760px; 
+}
+.box-267{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 140px;
+      left:780px; 
+}
+.box-268{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 0px;
+      left:680px; 
+}
+.box-269{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 20px;
+      left:700px; 
+}
+.box-270{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 40px;
+      left:720px; 
+}
+.box-271{
+    height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 60px;
+      left:740px; 
+}
+.box-272{
+    height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 80px;
+      left:760px;
+}
+.box-273{
+   height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 100px;
+      left:780px;
+}
+.box-274{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 0px;
+      left:720px;
+}
+.box-275{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 20px;
+      left:740px;
+}
+.box-276{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 40px;
+      left:760px;
+}
+.box-277{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 60px;
+      left:780px;
+}
+.box-278{
+    height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 0px;
+      left:760px;
+}
+.box-279{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 20px;
+      left:780px;
+}
+.box-280{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 20px;
+      left:780px;
+}
+.box-281{
+    height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 40px;
+      left: 0;
+}
+.box-282{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 60px;
+      left: 20px;
+}
+.box-283{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 80px;
+      left: 40px;
+}
+.box-284{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 100px;
+      left: 60px;
+}
+.box-285{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 120px;
+      left: 80px;
+}
+.box-286{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 140px;
+      left: 100px;
+}
+.box-287{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 160px;
+      left: 120px;
+}
+.box-288{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 180px;
+      left: 140px;
+}
+.box-289{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 200px;
+      left: 160px;
+}
+.box-290{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 220px;
+      left: 180px;
+}
+.box-291{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 240px;
+      left: 200px;
+}
+.box-292{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 260px;
+      left: 220px;
+}
+.box-293{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 280px;
+      left: 240px;
+}
+.box-294{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 300px;
+      left: 260px;
+}
+.box-295{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 320px;
+      left: 280px;
+}
+.box-296{
+    height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 340px;
+      left: 300px;
+}
+.box-297{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 360px;
+      left: 320px;
+}
+.box-298{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 380px;
+      left: 340px;
+}
+.box-299{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 80px;
+      left: 0;
+}
+.box-300{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 100px;
+      left: 20px;
+}
+.box-301{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 120px;
+      left: 40px;
+}
+.box-302{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 140px;
+      left: 60px;
+}
+.box-303{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 160px;
+      left: 80px;
+}
+.box-304{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 180px;
+      left: 100px;
+}
+.box-305{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 200px;
+      left: 120px;
+}
+.box-306{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 220px;
+      left: 140px;
+}
+.box-307{
+    height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 240px;
+      left: 160px;
+}
+.box-308{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 260px;
+      left: 180px;
+}
+.box-309{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 280px;
+      left: 200px;
+}
+.box-310{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 300px;
+      left: 220px;
+}
+.box-311{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 320px;
+      left: 240px;
+}
+.box-312{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 340px;
+      left: 260px;
+}
+.box-313{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 360px;
+      left: 280px;
+}
+.box-314{
+   height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 380px;
+      left: 300px;
+}
+.box-315{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 120px;
+      left: 0px;
+}
+.box-316{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 140px;
+      left: 20px;
+}
+.box-317{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 160px;
+      left: 40px;
+}
+.box-318{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 180px;
+      left: 60px;
+}
+.box-319{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 200px;
+      left: 80px;
+}
+.box-320{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 220px;
+      left: 100px;
+}
+.box-321{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 240px;
+      left: 120px;
+}
+.box-322{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 260px;
+      left: 140px;
+}
+.box-323{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 280px;
+      left: 160px;
+}
+.box-324{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 300px;
+      left: 180px;
+}
+.box-325{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 320px;
+      left: 200px;
+}
+.box-326{
+       height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 340px;
+      left: 220px;
+}
+.box-327{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 360px;
+      left: 240px;
+}
+.box-328{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 380px;
+      left: 260px;
+}
+.box-329{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 160px;
+      left: 0px;
+}
+.box-330{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 180px;
+      left: 20px;
+}
+.box-331{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 200px;
+      left: 40px;
+}
+.box-332{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 220px;
+      left: 60px;
+}
+.box-333{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 240px;
+      left: 80px;
+}
+.box-334{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 260px;
+      left: 100px;
+}
+.box-335{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 280px;
+      left: 120px;
+}
+.box-336{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 300px;
+      left: 140px;
+}
+.box-337{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 320px;
+      left: 160px;
+}
+.box-338{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 340px;
+      left: 180px;
+}
+.box-339{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 360px;
+      left: 200px;
+}
+.box-340{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 380px;
+      left: 220px;
+}
+.box-341{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 200px;
+      left: 0px;
+}
+.box-342{
+       height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 220px;
+      left: 20px;
+}
+.box-343{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 240px;
+      left: 40px;
+}
+.box-344{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 260px;
+      left: 60px;
+}
+.box-345{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 280px;
+      left: 80px;
+}
+.box-346{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 300px;
+      left: 100px;
+}
+.box-347{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 320px;
+      left: 120px;
+}
+.box-348{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 340px;
+      left: 140px;
+}
+.box-349{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 360px;
+      left: 160px;
+}
+.box-350{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 380px;
+      left: 180px;
+}
+.box-351{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 240px;
+      left: 0px;
+}
+.box-352{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 260px;
+      left: 20px;
+}
+.box-353{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 280px;
+      left: 40px;
+}
+.box-354{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 300px;
+      left: 60px;
+}
+.box-355{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 320px;
+      left: 80px;
+}
+.box-356{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 340px;
+      left: 100px;
+}
+.box-357{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 360px;
+      left: 120px;
+}
+.box-358{
+    height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 380px;
+      left: 140px;
+}
+.box-359{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 280px;
+      left: 0px;
+}
+.box-360{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 300px;
+      left: 20px;
+}
+.box-361{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 320px;
+      left: 40px;
+}
+.box-362{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 340px;
+      left: 60px;
+}
+.box-363{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 360px;
+      left: 80px;
+}
+.box-364{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 380px;
+      left: 100px;
+}
+.box-365{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 320px;
+      left: 0px; 
+}
+.box-366{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 340px;
+      left: 20px; 
+}
+.box-367{
+      height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 360px;
+      left: 40px; 
+}
+.box-368{
+    height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 380px;
+      left: 60px; 
+}
+.box-369{
+     height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 360px;
+      left: 0px; 
+}
+.box-370{
+         height: 20px;
+      width: 20px;
+      background-color: purple;
+      position: absolute;
+      top: 380px;
+      left: 20px; 
+}
